@@ -6,7 +6,7 @@
 
 • $ pkg install git
 
-• $ git clone https://github.com/ZAMUEL-MX/terkey
+• $ git clone https://github.com/zamxyz/terkey
 
 • $ cd terkey
 
