@@ -1,3 +1,4 @@
+![Screenshot_2021-03-03-23-43-38-126_com termux](https://user-images.githubusercontent.com/79139059/109840923-247e2300-7c7b-11eb-8213-b8e2435c9f34.png)
 
 # SCRIPTNYA
 
