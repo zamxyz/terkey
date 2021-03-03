@@ -1,5 +1,5 @@
-# SC BUAT NAMBAHIN TOMBOL KANAN,KIRI,ATAS,BAWAH.
-# COMMAND AJ9
+
+# SCRIPTNYA
 
 • $ pkg update && pkg upgrade
 
